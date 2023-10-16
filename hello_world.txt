@@ -1,0 +1,1 @@
+This is my very first repo on GitHub, im using The Odin Project to learn coding!
